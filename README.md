@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/..../.svg)](https://doi.org/###/zenodo.###)
 
-# AUTHOR_Running-title
+# RUFF_CHOI_unfolded_protein_phase_separation
 
 This repository contains the analysis code associated with the **###** project, led by **###**. This manuscript has been submitted for publication under the title **"#####"**.
 
