@@ -2,8 +2,8 @@ clear all;
 
 % Plot Figure 4A
 
-constructs={'WT_barnase'};
-mytitle={'WT_barnase'};
+constructs={'WT'};
+mytitle={'WT'};
 
 dthresh=5;
 
