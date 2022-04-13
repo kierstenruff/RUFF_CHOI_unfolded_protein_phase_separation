@@ -1,5 +1,7 @@
 clear all;
 
+% Plot Figure 7A
+
 dthresh=5;
 
 types{1}={'GSTNQ'};
