@@ -2,13 +2,13 @@
 
 # RUFF_CHOI_unfolded_protein_phase_separation
 
-This repository contains the analysis code associated with the **###** project, led by **###**. This manuscript has been submitted for publication under the title **"#####"**.
+This repository contains the analysis code associated with the **Unfolded Protein Phase Separation** project, led by **Kiersten M. Ruff and Yoon Hee Choi**. This manuscript has been submitted for publication under the title **"Sequence grammar underlying unfolding and phase separation of globular proteins"**.
 
-This manuscript has been submitted as a preprint via BioRxiv [here](biorxiv/link). A link to the final version will be provided upon publication.
+This manuscript has been submitted as a preprint via BioRxiv [here](https://doi.org/10.1101/2021.08.20.457073). A link to the final version will be provided upon publication.
 
 ## Prerequisites
 
-This analysis assumes a standard installation of Python 3 (=> **version**). For specific package requirements, see the environment.yml file, or  create a new conda environment containing all packages by running ```conda create -f environment.yml```. In addition to the analysis contained here, some simple statistical tests were performed using [GraphPad Prism v **8.0**](https://www.graphpad.com/scientific-software/prism/).
+This analysis assumes a standard installation of MATLAB 9. This analysis also assumes a standard installation of Python 3 (=> **3.8.8**). For specific package requirements, see the environment.yml file, or  create a new conda environment containing all packages by running ```conda create -f environment.yml```. In addition to the analysis contained here, some simple statistical tests were performed using [GraphPad Prism v **8.0**](https://www.graphpad.com/scientific-software/prism/).
 
 ## Raw data
 
