@@ -30,10 +30,10 @@ Individual analyses are presented within the ```src``` folder. Where processing 
 
 4. [UPOD_proteomics](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/UPOD_proteomics) - analyses related to Figures 6 and S5
 
-| Script      | Language/Interpreter | Description   |
-|-------------|----------------------|---------------|
-| script_name | Python               | Functionality |
-| script_name | Python               | Functionality |
+%| Script      | Language/Interpreter | Description   |
+%|-------------|----------------------|---------------|
+%| script_name | Python               | Functionality |
+%| script_name | Python               | Functionality |
 
 ## References
 
