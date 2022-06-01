@@ -43,7 +43,7 @@ for c=1:length(constructs)
 
     % For FRC
     for r=1:length(repsfrc)
-        conord(r,:)=load(['../' constructs{c} '/FRC/' num2str(repsfrc(r)) '/ana/contact_order_' num2str(dthresh) '.000.csv']);
+        conord(r,:)=load(['../../data/atomistic_simulations/' constructs{c} '/FRC/' num2str(repsfrc(r)) '/ana/contact_order_' num2str(dthresh) '.000.csv']);
         mcofrcr(r)=mean(conord(r,:));
     end
 
