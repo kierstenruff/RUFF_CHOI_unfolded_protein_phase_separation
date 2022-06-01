@@ -20,7 +20,7 @@ Various public databases were also queried as cited in the accompanying manuscri
 
 Initial processing of the novel mass spectrometry spectra files was completed using either [Proteome Discoverer] or [MaxQuant][3]<sup>[3]</sup>.
 
-Individual analyses are presented within the ```src``` folder. Where processing order is important for individual analyses, scripts have been numbered and should be run in order before unnumbered counterparts.
+Individual analyses are presented within the ```src``` folder. Where processing order is important for individual analyses, Python scripts have been numbered and MATLAB scripts have been alphabetized and should be run in order before unnumbered / unalphabetized counterparts, respectively.
 
 1. [Analysis-name](link/to/folder)
 
