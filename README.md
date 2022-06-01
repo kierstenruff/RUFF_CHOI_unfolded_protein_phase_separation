@@ -22,7 +22,9 @@ Initial processing of the novel mass spectrometry spectra files was completed us
 
 Individual analyses are presented within the ```src``` folder. Where processing order is important for individual analyses, Python scripts have been numbered and MATLAB scripts have been alphabetized and should be run in order before unnumbered / unalphabetized counterparts, respectively.
 
-1. [Analysis-name](link/to/folder)
+1. [published_Tm_disease](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/published_Tm_disease)
+
+Analyses related to Figure 1
 
 | Script      | Language/Interpreter | Description   |
 |-------------|----------------------|---------------|
