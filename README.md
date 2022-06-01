@@ -22,9 +22,13 @@ Initial processing of the novel mass spectrometry spectra files was completed us
 
 Individual analyses are presented within the ```src``` folder. Where processing order is important for individual analyses, Python scripts have been numbered and MATLAB scripts have been alphabetized and should be run in order before unnumbered / unalphabetized counterparts, respectively.
 
-1. [published_Tm_disease](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/published_Tm_disease)
+1. [published_Tm_disease](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/published_Tm_disease) - analyses related to Figure 1
 
-Analyses related to Figure 1
+2. [optoDroplets_csat](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/optoDroplets_csat) - analyses related to Figures 3, 4, 5, S2, and S3
+
+3. [atomistic_simulations](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/atomistic_simulations) - analyses related to Figures 4A and 7
+
+4. [UPOD_proteomics](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/UPOD_proteomics) - analyses related to Figures 6 and S5
 
 | Script      | Language/Interpreter | Description   |
 |-------------|----------------------|---------------|
