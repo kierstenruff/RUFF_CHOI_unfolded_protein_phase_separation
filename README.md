@@ -12,7 +12,7 @@ This analysis assumes a standard installation of MATLAB 9. This analysis also as
 
 ## Raw data
 
-The .RAW files have been deposited via the [PRIDE][1]<sup>[1]</sup> partner repository to the [ProteomeXchange Consortium][2]<sup>[2]</sup> under the dataset identifier PXD033716. For convenience, the preprocessed identification and quantitation data (hereon termed raw data) have also been uploaded as an open-access [Zenodo dataset](https://doi.org/###/zenodo.###). These data can be collected automatically using the ```raw_data.py``` script in each of the respective ```src``` analysis folders.
+The .RAW files have been deposited via the [PRIDE][1]<sup>[1]</sup> partner repository to the [ProteomeXchange Consortium][2]<sup>[2]</sup> under the dataset identifier PXD033716. For convenience, the preprocessed identification and quantitation data (hereon termed raw data) have also been uploaded as an open-access [Zenodo dataset](https://doi.org/###/zenodo.###). 
 
 Various public databases were also queried as cited in the accompanying manuscript, for which access protocols are provided in the respective ```utilities``` scripts where appropriate.
 
@@ -29,11 +29,6 @@ Individual analyses are presented within the ```src``` folder. Where processing 
 3. [atomistic_simulations](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/atomistic_simulations) - analyses related to Figures 4A and 7
 
 4. [UPOD_proteomics](https://github.com/kierstenruff/RUFF_CHOI_unfolded_protein_phase_separation/tree/master/src/UPOD_proteomics) - analyses related to Figures 6 and S5
-
-| Script      | Language/Interpreter | Description   |
-|-------------|----------------------|---------------|
-| script_name | Python               | Functionality |
-| script_name | Python               | Functionality |
 
 ## References
 
