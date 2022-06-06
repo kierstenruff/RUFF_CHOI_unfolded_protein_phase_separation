@@ -12,7 +12,7 @@ This analysis assumes a standard installation of MATLAB 9. This analysis also as
 
 ## Raw data
 
-The .RAW files have been deposited via the [PRIDE][1]<sup>[1]</sup> partner repository to the [ProteomeXchange Consortium][2]<sup>[2]</sup> under the dataset identifier PXD033716. For convenience, the preprocessed identification and quantitation data (hereon termed raw data) have also been uploaded as an open-access [Zenodo dataset](10.5281/zenodo.6603909). 
+The .RAW files have been deposited via the [PRIDE][1]<sup>[1]</sup> partner repository to the [ProteomeXchange Consortium][2]<sup>[2]</sup> under the dataset identifier PXD033716. For convenience, the preprocessed identification and quantitation data (hereon termed raw data) have also been uploaded as an open-access [Zenodo dataset](https://doi.org/10.5281/zenodo.5794191). 
 
 Various public databases were also queried as cited in the accompanying manuscript.
 
