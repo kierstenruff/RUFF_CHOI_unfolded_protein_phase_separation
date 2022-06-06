@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/..../.svg)](https://doi.org/###/zenodo.###)
+[![DOI](https://zenodo.org/badge/..../.svg)](https://doi.org/10.5281/zenodo.6603909)
 
 # RUFF_CHOI_unfolded_protein_phase_separation
 
