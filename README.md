@@ -3,9 +3,7 @@
 
 # RUFF_CHOI_unfolded_protein_phase_separation
 
-This repository contains the analysis code associated with the **Unfolded Protein Phase Separation** project, led by **Kiersten M. Ruff and Yoon Hee Choi**. This manuscript has been submitted for publication under the title **"Sequence grammar underlying unfolding and phase separation of globular proteins"**.
-
-This manuscript has been submitted as a preprint via BioRxiv [here](https://doi.org/10.1101/2021.08.20.457073). A link to the final version will be provided upon publication.
+This repository contains the analysis code associated with the **Unfolded Protein Phase Separation** project, led by **Kiersten M. Ruff and Yoon Hee Choi**. This manuscript has been published under the title [**"Sequence grammar underlying unfolding and phase separation of globular proteins"**](https://www.sciencedirect.com/science/article/pii/S1097276522006074?via%3Dihub).
 
 ## Prerequisites
 
